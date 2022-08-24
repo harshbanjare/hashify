@@ -1,5 +1,5 @@
 # Hashify
-(Forked From The OLD Github account)
+(Forked From an old Github account of mine)
 ## A simple music streaming Web-App
 
 #### A simple music streaming site created Using PHP , Javascript (Jquery, AJAX) , HTML , CSS. Database Used - MySql.
